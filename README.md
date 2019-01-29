@@ -1,4 +1,4 @@
-# Google Maps API wrapper
+# Google Maps API wrapper for Python
 
 January 2019, Markus Konrad <markus.konrad@wzb.eu> / [Berlin Social Science Center](https://www.wzb.eu/en)
 
